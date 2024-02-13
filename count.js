@@ -2,9 +2,14 @@
 
 let cnt = 0;
 
-for(let i = 0; i <= 1000; i++){
+for (let i = 0; i <= 1000; i++) {
     cnt += i;
-    console.log(i);
+    if (i % 100 == 0) {
+        console.log(i);
+    }
+    else{
+        continue;
+    }
 }
 
-console.log("Count of 0 - 1000 is : "+ cnt);
+console.log("Count of 0 - 1000 is : " + cnt);
