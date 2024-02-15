@@ -4,6 +4,7 @@ let arr = [12,34,56,78,90,123,445,678,901,4456];
 let fe = 678;
 let x = false;
 let tmp = 0;
+
 for(let i = 0; i<arr.length; i++){
     if(arr[i] == fe){
         x = true;
