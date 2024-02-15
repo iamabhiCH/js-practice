@@ -1,4 +1,4 @@
-// WAP that prints all the male people's first name given a complex object
+// WAP that prints all the male people's name given a complex object
 
 population = [
     {
