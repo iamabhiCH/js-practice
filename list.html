@@ -1,0 +1,25 @@
+<!-- WAP to create HTML list from JavaScript array. -->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>HTML List</title>
+    </head>
+    <body>
+        <center>
+            <h1>HTML List</h1>
+        </center>
+        <ul id="myList"></ul>
+        <script>
+            let dataArr = ["Akash", "Abhinav", "Abhishek", "Roshan", "Manish","Shahsi"]
+            let list = document.getElementById("myList");
+            for(i = 0; i < dataArr.length; i++){
+                let li = document.createElement("li")
+                li.innerText = dataArr[i]
+                list.appendChild(li);
+            }
+        </script>
+    </body>
+</html>
