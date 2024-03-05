@@ -9,7 +9,7 @@ let nameArr = [
 ]
 
 let k = "course";
-let l = "DevOps";
+let l = "FullStack Development";
 let ind = -1;
 
 for(let i = 0; i < nameArr.length; i++){
