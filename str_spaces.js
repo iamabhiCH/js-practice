@@ -1,0 +1,1 @@
+// WAP to replace multiple spaces with single space in JavaScript.
