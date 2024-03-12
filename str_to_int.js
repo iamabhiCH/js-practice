@@ -1,0 +1,1 @@
+// WAP to convert a string into a integer without using parseInt() function in JavaScript.
