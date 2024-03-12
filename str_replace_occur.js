@@ -1,0 +1,1 @@
+// WAP to replace all occurrences of a string in JavaScript.
