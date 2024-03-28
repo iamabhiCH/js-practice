@@ -1,0 +1,1 @@
+// WAP to remove text from a string in JavaScript
