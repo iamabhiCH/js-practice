@@ -1,6 +1,6 @@
 // WAP for Left Rotate by One in an Array.
 
-arr = [1,2,3,4,5,6];
+arr = [6,5,4,3,2,1];
 
 function arrRotation(arr){
     if(arr.length == 1){
