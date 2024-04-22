@@ -1,6 +1,6 @@
 // WAP to Find Maximum prft by Buying and Selling a Share at Most Twice using Array
 
-let pr = [12,45,67,89,126,890];
+let pr = [12,45,67,89,126,890,6789];
 let x = pr.length;
 
 function maxprft(arr, n){
