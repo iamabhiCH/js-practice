@@ -1,6 +1,6 @@
 // JavaScript Program to Find the Most Frequently Occurring Element in an Array
 
-let arr = [12,45,67,34,34,2,11,34];
+let arr = [12,45,67,34,34,2,11,34,90,34,56,66];
 
 function mostOccrElement(arr){
     const cnt = arr.reduce((ac, num) => {
