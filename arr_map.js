@@ -6,6 +6,7 @@ mapObj.set(1,'Abhishek')
 mapObj.set(2,'Akash')
 mapObj.set(3,'Manish')
 mapObj.set(4,'Shahsi')
+mapObj.set(5,'Sandeep')
 
 console.log(mapObj);
 
