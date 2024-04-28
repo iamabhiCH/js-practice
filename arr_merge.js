@@ -1,7 +1,7 @@
 // WAP to Merge two Sorted Arrays into a Single Sorted Array.
 
-const arr1 = [1,12,23,35,49];
-const arr2 = [14,26,37,48];
+const arr1 = [1,12,23,35,49,67];
+const arr2 = [14,26,37,48,90];
 
 function mergeTwoSortedArray(arr1, arr2){
     let arr4 = arr1.reduce(
