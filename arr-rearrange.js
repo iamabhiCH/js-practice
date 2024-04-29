@@ -1,6 +1,6 @@
 // WAP to Rearrange Array such that Even Positioned are Greater than Odd.
 
-let arr = [2, 4, 3, 5, 6];
+let arr = [2, 4, 3, 5, 8,71,94,34];
 let newArr = arrRearrange(arr);
 
 function arrRearrange(arrayInput) {
