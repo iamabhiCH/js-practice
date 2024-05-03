@@ -1,6 +1,6 @@
 // WAP for Finding the Majority Element of an Array
 
-const arr = [2,2,3,4,2,2,5];
+const arr = [2,2,3,4,2,2,5,2,7,9,2,5];
 
 function findingMajority(arr){
     const n = arr.length;
