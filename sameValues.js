@@ -1,7 +1,7 @@
 // WAP to get the same value from another array and assign to object of arrays.
 
 let arr1 = [1,3,45,67,8,90,987,234,556,789]
-let arr2 = [1,45,8,556]
+let arr2 = [1,45,8,67,9,51,556]
 let resArr = [];
 
 // First Solution
