@@ -1,6 +1,6 @@
 // WAP to Determine the Frequency of Elements in an Array and Represent it as an Object.
 
-const arr1 = [1,1,2,4,4,3,3,4,5,4,4,4,3,3];
+const arr1 = [1,1,2,4,4,3,3,4,5,4,4,4,3,3,5,2,1,5,3,3];
 
 function elementFrequencies(arr){
     const freq = {};
